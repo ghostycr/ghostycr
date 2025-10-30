@@ -31,7 +31,7 @@ I’ve contributed to **responsible disclosure** programs with:
 ---
 
 ### 🏆 Achievements & Recognition  
-- 🏁 **Ferrari Hall of Fame** — Responsible Disclosure  
+- 🏁 **Ferrari VDP Hall of Fame** — Responsible Disclosure  
 - 💰 **Paid Bug Bounty ($100)** — CaribbeanCoffee  
 - 🔐 **4 Private Invitations** — Intigriti  
 - 🎓 **BSCP Certification** — PortSwigger Burp Suite Certified Practitioner  
