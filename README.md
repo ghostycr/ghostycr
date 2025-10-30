@@ -1,3 +1,5 @@
+![Ghosty Banner](https://github.com/ghostycr/ghostycr/blob/main/ghosty-banner.png)
+
 # 👋 Hola, soy Ghosty Hunter  
 🔐 Consultor y Especialista en Seguridad Web | OWASP Top 10 | WordPress & APIs
 
