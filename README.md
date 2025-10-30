@@ -1,24 +1,24 @@
 ![Ghosty Banner](https://github.com/ghostycr/ghostycr/blob/main/ghosty-banner.png)
 
-# 👋 Hola, soy Ghosty Hunter  
-🔐 Consultor y Especialista en Seguridad Web | OWASP Top 10 | WordPress & APIs
+# 👋 Hi, I'm Ghosty Hunter  
+🔐 Web Security Consultant & Specialist | OWASP Top 10 | WordPress & APIs  
 
 ---
 
-### 💡 Sobre mí
-Te ayudo a **detectar y mitigar vulnerabilidades antes de que sean un riesgo real.**  
-Combino metodologías de **bug bounty** y **pentesting profesional** para fortalecer la seguridad de empresas, startups y e-commerce.
+### 💡 About Me  
+I help companies **detect and mitigate vulnerabilities before they become real threats.**  
+My work combines **bug bounty methodologies** with **professional pentesting** to strengthen the security posture of businesses, startups, and e-commerce platforms.  
 
-He colaborado en **divulgación responsable** con marcas como:  
-**Ferrari | WP Engine | DigitalOcean | Coca-Cola | CaribbeanCoffee**
+I’ve contributed to **responsible disclosure** programs with:  
+**Ferrari | WP Engine | DigitalOcean | Coca-Cola | CaribbeanCoffee**  
 
-🎯 Activo en plataformas internacionales:  
+🎯 Active on global platforms:  
 **HackerOne | Bugcrowd | Intigriti**  
-> He reportado vulnerabilidades en empresas como **Airbnb, Linode, AMBER AI, Canva, McGraw Hill, Lime y Allianz**.
+> Reported vulnerabilities for **Airbnb, Linode, AMBER AI, Canva, McGraw Hill, Lime, and Allianz.**
 
 ---
 
-### 🧠 Especialidades Técnicas
+### 🧠 Technical Specialties  
 - XSS (Reflected, Stored, Blind)  
 - SQL Injection  
 - Misconfigurations & Information Exposure  
@@ -26,87 +26,87 @@ He colaborado en **divulgación responsable** con marcas como:
 - WordPress REST API Security  
 - Sensitive Data Exposure & Privilege Escalation  
 
-🔎 Cada auditoría se centra en vulnerabilidades **OWASP Top 10** y sus variantes modernas en entornos WordPress y APIs.
+🔎 Every audit focuses on **OWASP Top 10** vulnerabilities and their modern variants in WordPress and API environments.  
 
 ---
 
-### 🏆 Logros y Reconocimientos
+### 🏆 Achievements & Recognition  
 - 🏁 **Ferrari Hall of Fame** — Responsible Disclosure  
-- 💰 **Bug bounty pagado ($100)** — CaribbeanCoffee  
-- 🔐 **4 invitaciones privadas** — Intigriti  
-- 🎓 **Certificación BSCP** — PortSwigger Burp Suite Certified Practitioner  
-- 🌍 **Perfiles activos:** HackerOne • Bugcrowd • Intigriti  
+- 💰 **Paid Bug Bounty ($100)** — CaribbeanCoffee  
+- 🔐 **4 Private Invitations** — Intigriti  
+- 🎓 **BSCP Certification** — PortSwigger Burp Suite Certified Practitioner  
+- 🌍 **Active Profiles:** HackerOne • Bugcrowd • Intigriti  
 
 ---
 
-### 🧩 Experiencia en Bug Bounty
-He contribuido con hallazgos de seguridad y divulgación responsable en plataformas globales, ayudando a marcas internacionales a fortalecer su infraestructura.  
+### 🧩 Bug Bounty Experience  
+I’ve contributed to security findings and responsible disclosure programs across global platforms, helping international brands strengthen their infrastructures.  
 
-Esta experiencia práctica me permite aplicar **técnicas reales de bug bounty** a auditorías comerciales personalizadas, combinando investigación ofensiva y defensa aplicada.
+This hands-on experience allows me to apply **real-world bug bounty techniques** to commercial security audits — blending offensive research with practical defense.  
 
-| Plataforma | Estado | Programas notables |
-|-------------|---------|--------------------|
-| [HackerOne](https://hackerone.com) | Activo | Airbnb • Linode • AMBER AI |
-| [Bugcrowd](https://bugcrowd.com) | Activo | Canva • McGraw Hill • Allianz • Lime |
-| [Intigriti](https://intigriti.com) | Privado | Ferrari (Hall of Fame) |
+| Platform | Status | Notable Programs |
+|-----------|---------|------------------|
+| [HackerOne](https://hackerone.com) | Active | Airbnb • Linode • AMBER AI |
+| [Bugcrowd](https://bugcrowd.com) | Active | Canva • McGraw Hill • Allianz • Lime |
+| [Intigriti](https://intigriti.com) | Private | Ferrari (Hall of Fame) |
 
 ---
 
-### 🚀 Servicios de Seguridad
+### 🚀 Security Services  
 
-#### 🔹 1️⃣ QuickCheck (1h)
-Auditoría rápida OWASP Top 10 para detectar los riesgos más comunes en WordPress y APIs.  
-📄 *Resumen de 1 página + PoC sanitizado + llamada de 30 min*  
-💰 *Gratis o $49 (filtro de calidad para nuevos clientes)*  
+#### 🔹 1️⃣ QuickCheck (1h)  
+Fast OWASP Top 10 audit to identify common risks in WordPress and APIs.  
+📄 *1-page summary + sanitized PoC + 30-min review call*  
+💰 *Free or $49 (quality filter for new clients)*  
 
-#### 🔹 2️⃣ WP Quicktest (3–5 días)
-Incluye revisión de plugins, configuración del servidor y endpoints API.  
-📄 *Análisis OWASP Top 10 + PoC + plan de mitigación*  
+#### 🔹 2️⃣ WP Quicktest (3–5 days)  
+Includes plugin analysis, server configuration review, and API endpoint testing.  
+📄 *OWASP Top 10 scan + PoC + mitigation plan*  
 💰 *$350–$900*  
 
-#### 🔹 3️⃣ Pentest Completo (1–2 semanas)
-Ideal para startups o agencias que necesitan una evaluación integral de seguridad.  
-📄 *Pruebas avanzadas, explotación controlada y reporte profesional*  
-💰 *Presupuesto según alcance*  
+#### 🔹 3️⃣ Full WordPress Pentest (1–2 weeks)  
+Ideal for startups or agencies seeking a full-scale security assessment.  
+📄 *Advanced testing, controlled exploitation, and professional report*  
+💰 *Budget based on scope*  
 
-#### 🔹 4️⃣ Hack & Patch
-Solución inmediata para vulnerabilidades críticas detectadas.  
-📄 *Detección + fix técnico personalizado*  
-💰 *Según alcance*
-
----
-
-### ⚙️ Cómo trabajo
-1️⃣ Reconocimiento inicial  
-2️⃣ Pruebas OWASP Top 10  
-3️⃣ PoC responsable  
-4️⃣ Recomendaciones y mitigación  
-5️⃣ Reunión de cierre (30 min)  
-
-> Todo bajo **confidencialidad (NDA)** y sin impacto en entornos productivos.
+#### 🔹 4️⃣ Hack & Patch  
+Immediate solution for detected critical vulnerabilities.  
+📄 *Detection + technical fix proposal*  
+💰 *Scope-based pricing*  
 
 ---
 
-### 📁 Evidencia de trabajo
-📸 *Capturas redacted de reconocimiento en Ferrari (Hall of Fame)*  
-📸 *Perfiles activos en HackerOne y Bugcrowd (ghostybounty / ghostyy)*  
+### ⚙️ Workflow  
+1️⃣ Initial reconnaissance  
+2️⃣ OWASP Top 10 testing  
+3️⃣ Responsible PoC development  
+4️⃣ Mitigation & recommendations  
+5️⃣ Closing meeting (30 min)  
 
-> Todas las pruebas se realizaron bajo programas de divulgación responsable con autorización de las empresas.
+> All work is performed under **confidentiality (NDA)** and without impact on production environments.  
 
 ---
 
-### 🌐 Conéctate conmigo
-[🌍 Portafolio / Landing Page](https://ghostyhunter.super.site)  
+### 📁 Proof of Work  
+📸 *Redacted screenshots of Ferrari Hall of Fame recognition*  
+📸 *Verified profiles on HackerOne & Bugcrowd (ghostybounty / ghostyy)*  
+
+> All findings were submitted under responsible disclosure programs with company authorization.  
+
+---
+
+### 🌐 Connect With Me  
+[🌍 Portfolio / Landing Page](https://ghostyhunter.super.site)  
 [💻 GitHub](https://github.com/ghostycr)  
 [🎯 Intigriti](https://app.intigriti.com/researcher/profile/boosky)  
 [🔒 HackerOne](https://hackerone.com/ghostybounty)  
 [🐞 Bugcrowd](https://bugcrowd.com/h/ghostyy)  
 [💼 LinkedIn](https://linkedin.com/in/ghostycr)  
-[📱 WhatsApp](https://wa.me/50670350874?text=Hola%20👋%20quiero%20agendar%20un%20QuickCheck%20de%20seguridad%20para%20mi%20sitio%20WordPress.)  
+[📱 WhatsApp](https://wa.me/50670350874?text=Hello%20👋%20I’d%20like%20to%20schedule%20a%20WordPress%20QuickCheck%20security%20audit.)  
 📧 security@ghostyhunter.com  
 
 ---
 
-### 🧠 Filosofía
+### 🧠 Philosophy  
 > “Responsible disclosure is not about hacking sites — it’s about protecting people.”  
-> — Ghosty Hunter 🕶️
+> — Ghosty Hunter 🕶️  
