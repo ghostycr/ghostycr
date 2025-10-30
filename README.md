@@ -106,7 +106,7 @@ Immediate solution for detected critical vulnerabilities.
 [🐞 Bugcrowd](https://bugcrowd.com/h/ghostyy)  
 [💼 LinkedIn](https://linkedin.com/in/ghostycr)  
 [📱 WhatsApp](https://wa.me/50670350874?text=Hello%20👋%20I’d%20like%20to%20schedule%20a%20WordPress%20QuickCheck%20security%20audit.)  
-📧 security@ghostyhunter.com  
+📧 boosky+1@intigriti.me  
 
 ---
 
