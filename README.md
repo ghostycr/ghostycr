@@ -88,8 +88,11 @@ Immediate solution for detected critical vulnerabilities.
 ---
 
 ### 📁 Proof of Work  
-📸 *Redacted screenshots of Ferrari Hall of Fame recognition*  
-📸 *Verified profiles on HackerOne & Bugcrowd (ghostybounty / ghostyy)*  
+![Bounty cariboucoffee.com ](https://github.com/ghostycr/ghostycr/blob/main/bounty.png)  
+*Caribou Coffee – Responsible Disclosure*  
+
+![Intigriti Profile](https://github.com/ghostycr/ghostycr/blob/main/boosky-intigriti.png)  
+*Verified Intigriti researcher (boosky)*  
 
 > All findings were submitted under responsible disclosure programs with company authorization.  
 
