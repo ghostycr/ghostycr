@@ -94,6 +94,9 @@ Immediate solution for detected critical vulnerabilities.
 ![Intigriti Profile](https://github.com/ghostycr/ghostycr/blob/main/boosky-intigriti.png)  
 *Verified Intigriti researcher (boosky)*  
 
+![CVE 2025-55182](https://github.com/ghostycr/ghostycr/blob/main/CVE%2055182%20confirmation.jpg)  
+*CVE 2025-55182 validate report (Ghosty)* 
+
 > All findings were submitted under responsible disclosure programs with company authorization.  
 
 ---
