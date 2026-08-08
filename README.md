@@ -1,4 +1,4 @@
-![Ghosty Banner](https://github.com/ghostycr/ghostycr/blob/main/ghosty-banner.png)
+![Ghosty Banner](https://github.com/ghostycr/ghostycr/blob/main/banner.png)
 
 # 👋 Hi, I'm Diego Campos — Ghosty
 
