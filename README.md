@@ -1,118 +1,264 @@
 ![Ghosty Banner](https://github.com/ghostycr/ghostycr/blob/main/ghosty-banner.png)
 
-# 👋 Hi, I'm Ghosty Hunter  
-🔐 Web Security Consultant & Specialist | OWASP Top 10 | WordPress & APIs  
+# 👋 Hi, I'm Diego Campos — Ghosty
+
+### Cybersecurity Analyst · Security Researcher · AppSec · Offensive Security
+
+I’m a cybersecurity professional and independent security researcher from Costa Rica focused on **web application security, vulnerability research, SOC operations, AppSec, and security automation**.
+
+My background combines hands-on offensive security research with defensive security operations, engineering, data analysis, and process improvement.
+
+I enjoy understanding **how systems fail, how attackers think, and how security teams can build better defenses.**
 
 ---
 
-### 💡 About Me  
-I help companies **detect and mitigate vulnerabilities before they become real threats.**  
-My work combines **bug bounty methodologies** with **professional pentesting** to strengthen the security posture of businesses, startups, and e-commerce platforms.  
+## 🛡️ What I Do
 
-I’ve contributed to **responsible disclosure** programs with:  
-**Ferrari | WP Engine | DigitalOcean | Coca-Cola | CaribbeanCoffee**  
+My work currently spans four main areas:
 
-🎯 Active on global platforms:  
-**HackerOne | Bugcrowd | Intigriti**  
-> Reported vulnerabilities for **Airbnb, Linode, AMBER AI, Canva, McGraw Hill, Lime, and Allianz.**
+### 🔴 Offensive Security & AppSec
 
----
+* Web Application Pentesting
+* API Security Testing
+* WordPress Security
+* Vulnerability Research
+* OWASP Top 10
+* Burp Suite / Caido
+* Responsible Disclosure
+* Proof-of-Concept Development
 
-### 🧠 Technical Specialties  
-- XSS (Reflected, Stored, Blind)  
-- SQL Injection  
-- Misconfigurations & Information Exposure  
-- Open Redirects  
-- WordPress REST API Security  
-- Sensitive Data Exposure & Privilege Escalation  
+### 🔵 SOC & Defensive Security
 
-🔎 Every audit focuses on **OWASP Top 10** vulnerabilities and their modern variants in WordPress and API environments.  
+* Alert Triage & Investigation
+* SIEM Analysis
+* IOC Correlation
+* Network Traffic Analysis
+* MITRE ATT&CK Mapping
+* Incident Documentation
+* Phishing & Malware Analysis
+* Security Monitoring
 
----
+### 🧠 Security Engineering & Automation
 
-### 🏆 Achievements & Recognition  
-- 🏁 **Ferrari VDP Hall of Fame** — Responsible Disclosure  
-- 💰 **Paid Bug Bounty ($100)** — CaribbeanCoffee  
-- 🔐 **4 Private Invitations** — Intigriti  
-- 🎓 **BSCP Certification** — PortSwigger Burp Suite Certified Practitioner  
-- 🌍 **Active Profiles:** HackerOne • Bugcrowd • Intigriti  
+* Python & Bash automation
+* Security workflow automation
+* AI-assisted security tooling
+* RAG and LLM integrations
+* Dockerized security applications
+* Reconnaissance and reporting workflows
 
----
+### 🟣 Security Research
 
-### 🧩 Bug Bounty Experience  
-I’ve contributed to security findings and responsible disclosure programs across global platforms, helping international brands strengthen their infrastructures.  
-
-This hands-on experience allows me to apply **real-world bug bounty techniques** to commercial security audits — blending offensive research with practical defense.  
-
-| Platform | Status | Notable Programs |
-|-----------|---------|------------------|
-| [HackerOne](https://hackerone.com) | Active | Airbnb • Linode • AMBER AI |
-| [Bugcrowd](https://bugcrowd.com) | Active | Canva • McGraw Hill • Allianz • Lime |
-| [Intigriti](https://intigriti.com) | Private | Ferrari (Hall of Fame) |
+* Vulnerability discovery
+* CVE research
+* Responsible disclosure
+* Bug bounty programs
+* Security tooling experimentation
 
 ---
 
-### 🚀 Security Services  
+# 🔬 Security Research
 
-#### 🔹 1️⃣ QuickCheck (1h)  
-Fast OWASP Top 10 audit to identify common risks in WordPress and APIs.  
-📄 *1-page summary + sanitized PoC + 30-min review call*  
-💰 *Free or $49 (quality filter for new clients)*  
+I actively participate in responsible disclosure and bug bounty programs through:
 
-#### 🔹 2️⃣ WP Quicktest (3–5 days)  
-Includes plugin analysis, server configuration review, and API endpoint testing.  
-📄 *OWASP Top 10 scan + PoC + mitigation plan*  
-💰 *$350–$900*  
+**HackerOne · Bugcrowd · Intigriti**
 
-#### 🔹 3️⃣ Full WordPress Pentest (1–2 weeks)  
-Ideal for startups or agencies seeking a full-scale security assessment.  
-📄 *Advanced testing, controlled exploitation, and professional report*  
-💰 *Budget based on scope*  
+My security research has involved organizations and programs including:
 
-#### 🔹 4️⃣ Hack & Patch  
-Immediate solution for detected critical vulnerabilities.  
-📄 *Detection + technical fix proposal*  
-💰 *Scope-based pricing*  
+**Ferrari · Airbnb · Linode · Canva · McGraw Hill · Lime · Allianz · Caribou Coffee · AMBER AI**
 
----
+### Selected Recognition
 
-### ⚙️ Workflow  
-1️⃣ Initial reconnaissance  
-2️⃣ OWASP Top 10 testing  
-3️⃣ Responsible PoC development  
-4️⃣ Mitigation & recommendations  
-5️⃣ Closing meeting (30 min)  
+* 🏁 **Ferrari VDP Hall of Fame**
+* 💰 **Paid vulnerability disclosure — Caribou Coffee**
+* 🔐 **Multiple private Intigriti invitations**
+* 🐛 **15+ validated security vulnerabilities**
+* 🧪 Research involving **XSS, SQL Injection, RCE, access control, API security, information disclosure, and security misconfigurations**
 
-> All work is performed under **confidentiality (NDA)** and without impact on production environments.  
+### CVE Research
+
+**CVE-2025-55182**
+
+Critical Remote Code Execution vulnerability research and validation.
+
+My public repository contains sanitized security research and responsibly disclosed findings where disclosure is permitted.
 
 ---
 
-### 📁 Proof of Work  
-![Bounty cariboucoffee.com ](https://github.com/ghostycr/ghostycr/blob/main/bounty.png)  
-*Caribou Coffee – Responsible Disclosure*  
+# 🧰 Security Stack
 
-![Intigriti Profile](https://github.com/ghostycr/ghostycr/blob/main/boosky-intigriti.png)  
-*Verified Intigriti researcher (boosky)*  
+### Offensive Security
 
-![CVE 2025-55182](https://github.com/ghostycr/ghostycr/blob/main/CVE%2055182%20confirmation.jpg)  
-*CVE 2025-55182 validate report (Ghosty)* 
+`Burp Suite` · `Caido` · `OWASP` · `Nmap` · `WordPress` · `REST APIs` · `HTTP`
 
-> All findings were submitted under responsible disclosure programs with company authorization.  
+### Defensive Security
 
----
+`Splunk` · `Microsoft Sentinel` · `Elastic SIEM` · `Microsoft Defender` · `Wireshark` · `Sysmon`
 
-### 🌐 Connect With Me  
-[🌍 Portfolio / Landing Page](https://ghostyhunter.super.site)  
-[💻 GitHub](https://github.com/ghostycr)  
-[🎯 Intigriti](https://app.intigriti.com/researcher/profile/boosky)  
-[🔒 HackerOne](https://hackerone.com/ghostybounty)  
-[🐞 Bugcrowd](https://bugcrowd.com/h/ghostyy)  
-[💼 LinkedIn](https://linkedin.com/in/ghostycr)  
-[📱 WhatsApp](https://wa.me/50670350874?text=Hello%20👋%20I’d%20like%20to%20schedule%20a%20WordPress%20QuickCheck%20security%20audit.)  
-📧 boosky+1@intigriti.me  
+### Security Research & OSINT
+
+`VirusTotal` · `AbuseIPDB` · `Shodan` · `WHOIS` · `MITRE ATT&CK`
+
+### Engineering & Automation
+
+`Python` · `Bash` · `Git` · `GitHub` · `Docker` · `n8n`
+
+### AI / Data
+
+`LlamaIndex` · `ChromaDB` · `RAG` · `LLMs` · `Streamlit` · `Power BI`
 
 ---
 
-### 🧠 Philosophy  
-> “Responsible disclosure is not about hacking sites — it’s about protecting people.”  
-> — Ghosty Hunter 🕶️  
+# 🚀 Projects
+
+## 🛡️ Security Research Reports
+
+A collection of sanitized vulnerability research, responsible disclosures, CVE analysis, and technical security reports.
+
+→ [`security-research-reports`](https://github.com/ghostycr/security-research-reports)
+
+---
+
+## 🤖 SentinelIA / AppSec Copilot
+
+Experimental AI-assisted security platform designed to support security researchers and AppSec workflows.
+
+Research areas include:
+
+* Reconnaissance
+* HTTP request analysis
+* Vulnerability testing
+* Security knowledge bases
+* Automated reporting
+* AI-assisted security analysis
+* Security workflow orchestration
+
+Built around the idea of using AI as an **assistant for security professionals rather than a replacement for security expertise**.
+
+---
+
+## 🇨🇷 TransparenciaCR
+
+AI and data platform designed to improve access to Costa Rican public information.
+
+The project processes large volumes of multimedia and textual information and uses technologies such as:
+
+`RAG · LlamaIndex · ChromaDB · LLMs · Streamlit · Docker`
+
+The project combines:
+
+* Data engineering
+* Information retrieval
+* AI
+* Public-data analysis
+* Automation
+
+---
+
+# 🔵 SOC Training & Detection Engineering
+
+Alongside offensive security research, I maintain hands-on defensive security practice.
+
+I have worked through simulated SOC investigations involving:
+
+* Phishing
+* Suspicious PowerShell activity
+* WMI persistence
+* DNS-based exfiltration
+* Malicious network activity
+* Endpoint telemetry
+* IOC correlation
+
+Using environments based on:
+
+**Splunk · Elastic · Microsoft Sentinel · Defender · Sysmon · Wireshark**
+
+This helps me approach security from both sides:
+
+> **Understand the attacker. Detect the attacker. Engineer better defenses.**
+
+---
+
+# 🏗️ Engineering Mindset
+
+Before specializing in cybersecurity, I trained and worked in **Industrial Engineering, operations, data analysis, quality systems, and process improvement**.
+
+That background strongly influences how I approach security today:
+
+* Measure before deciding
+* Understand the complete system
+* Find the root cause
+* Document evidence
+* Reduce operational risk
+* Automate repetitive work
+* Improve processes continuously
+
+For me, cybersecurity is not only about discovering vulnerabilities.
+
+It is also about **building systems that are harder to break and easier to defend.**
+
+---
+
+# 💼 Security Services
+
+I can support organizations with:
+
+* Web Application Security Assessments
+* API Security Testing
+* WordPress Security Reviews
+* Vulnerability Assessments
+* Responsible Disclosure Validation
+* Security Research
+* AppSec Reviews
+* Security Automation
+* Technical Security Reporting
+
+All assessments are performed only under **explicit authorization and defined scope**.
+
+---
+
+# 📚 Continuous Learning
+
+Currently expanding my knowledge in:
+
+* Application Security
+* SOC Operations
+* Cloud Security
+* Active Directory Security
+* DevSecOps
+* Detection Engineering
+* AI for Cybersecurity
+
+Cybersecurity changes constantly, so continuous experimentation and learning are part of my daily work.
+
+---
+
+# 🎓 Certifications & Training
+
+* **Google Cybersecurity Professional Certificate**
+* **Akamai — Introduction to IT Security**
+* Hands-on SOC training with **Splunk, Sentinel and Elastic**
+* Practical Web Security training through **PortSwigger Web Security Academy**
+* Continuous vulnerability research through real-world responsible disclosure programs
+
+---
+
+# 🌎 Connect With Me
+
+🌐 [Portfolio](https://ghostyhunter.super.site/)
+
+💼 [LinkedIn](https://linkedin.com/in/ghostycr)
+
+🎯 [Intigriti](https://app.intigriti.com/researcher/profile/boosky)
+
+🔒 [HackerOne](https://hackerone.com/ghostybounty)
+
+🐞 [Bugcrowd](https://bugcrowd.com/h/ghostyy)
+
+💻 [GitHub](https://github.com/ghostycr)
+
+---
+
+> **Think Like Attackers. Protect Like Engineers.**
+
+Security Research · AppSec · Offensive Security · SOC · Security Engineering
